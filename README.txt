@@ -28,3 +28,5 @@ How to edit:
 Important:
 Private CV details such as home address, date of birth, religion, and
 civil status are not displayed on the public portfolio.
+
+Portfolio website hosted with GitHub Pages.
